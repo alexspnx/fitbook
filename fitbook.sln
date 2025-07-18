@@ -3,9 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.13.35931.197
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{54A90642-561A-4BB1-A94E-469ADEE60C69}") = "fitbook.client", "fitbook.client\fitbook.client.esproj", "{594EB740-4506-C52A-B6CA-811F71394B35}"
+Project("{54A90642-561A-4BB1-A94E-469ADEE60C69}") = "fitbook.client", "src\fitbook.client\fitbook.client.esproj", "{594EB740-4506-C52A-B6CA-811F71394B35}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "fitbook.Server", "fitbook.Server\fitbook.Server.csproj", "{EE67C78F-5740-43FB-AFF4-BE3DF51AC9A3}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "fitbook.Server", "src\fitbook.Server\fitbook.Server.csproj", "{EE67C78F-5740-43FB-AFF4-BE3DF51AC9A3}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{02EA681E-C7D8-13C7-8484-4AC65E1B71E8}"
 EndProject
